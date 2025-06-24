@@ -1,11 +1,11 @@
 ﻿{
     L"1.4.3",         // Version
     0x0424,         // LCID - Locale identifier
-    L"Slovenian (Slovenščina)",     // Language name
+    L"Slovenian",     // Language name
     {
         L"Vir:",
         L"Cilj:",
-        L"Label:",
+        L"Oznaka:",
         L"Datotečni sistem:",
         L"Začni",
         
